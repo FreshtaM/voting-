@@ -1,2 +1,1 @@
-# voting-
-project homework
+# online-voting-system
